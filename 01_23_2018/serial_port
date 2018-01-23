@@ -1,0 +1,3 @@
+sdptool browse 54:27:58:C0:3C:DE
+
+sudo rfcomm bind /dev/rfcomm0 54:27:58:C0:3C:DE 9

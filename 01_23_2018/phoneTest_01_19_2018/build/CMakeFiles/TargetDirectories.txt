@@ -1,0 +1,2 @@
+/home/jin/Desktop/phoneTest_01_19_2018/build/CMakeFiles/myPhone.dir
+/home/jin/Desktop/phoneTest_01_19_2018/build/CMakeFiles/testPhone.dir

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jin/Desktop/phoneTest_01_19_2018/src/myPhone.cpp
+tango.h
+/home/jin/Desktop/phoneTest_01_19_2018/src/tango.h
+
+/home/jin/Desktop/phoneTest_01_19_2018/src/tango.h
+stdio.h
+-
+string.h
+-
+iostream
+-
+deque
+-
+cstdlib
+-
+sstream
+-
+iomanip
+-
+string
+-
+stdexcept
+-
+SerialStream.h
+-
+SerialPort.h
+-
+boost/lexical_cast.hpp
+-
+
